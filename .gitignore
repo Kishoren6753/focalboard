@@ -74,3 +74,4 @@ server/vendor
 docker/certs
 docker/data
 server/**/*.coverage
+.file_activity_report.json
